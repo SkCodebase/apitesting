@@ -1,8 +1,17 @@
 {
-  "posts": [
+  "getEmployeeDetails": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Joseph"
+    },
+    {
+      "id": 2,
+      "name": "Ruby"
+    }
+    ,
+    {
+      "id": 3,
+      "name": "Jason"
     }
   ],
   "profile": {
