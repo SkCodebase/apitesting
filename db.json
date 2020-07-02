@@ -2,16 +2,29 @@
   "getEmployeeDetails": [
     {
       "id": 1,
-      "name": "Joseph"
+      "name": "Joseph",
+      "designation" : "Analyst"
     },
     {
       "id": 2,
-      "name": "Ruby"
+      "name": "Ruby",
+      "designation" : "Developer"
     }
     ,
     {
       "id": 3,
-      "name": "Jason"
+      "name": "Jason",
+      "designation" : "Lead"
+    },
+    {
+      "id": 4,
+      "name": "Arnold",
+      "designation" : "Analyst"
+    },
+    {
+      "id": 5,
+      "name": "Jamie",
+      "designation" : "Analyst"
     }
   ],
   "profile": {
